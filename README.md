@@ -19,6 +19,7 @@ MongoDB	Database for storing profiles
 HTML/CSS	Frontend & UI
 Gemini API	AI-generated meals
 Render	Hosting and deployment
+
 # ⚙️ Setup Instructions
 git clone https://github.com/yashitiwary/diet-planner2.git
 cd diet-planner2
