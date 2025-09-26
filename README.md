@@ -1,6 +1,6 @@
 # diet-planner
 A diet planner is a smart tool that helps users create personalized meal plans based on age, weight, health goals, and dietary preferences. It ensures balanced nutrition by tracking calories, proteins, carbs, and fats, making it easy to maintain a healthy lifestyle and achieve fitness goals.
-🥗 AI-Powered Diet Planner
+# 🥗 AI-Powered Diet Planner
 A smart, fun, and personalized diet planning web app built using Flask, MongoDB, and Generative AI (Gemini). Users can generate daily diet plans, save their profile, and download the plan as a beautiful PDF.
 
 🚀 Features
