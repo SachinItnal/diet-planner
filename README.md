@@ -21,6 +21,6 @@ Gemini API	AI-generated meals
 Render	Hosting and deployment
 
 # ⚙️ Setup Instructions
-git clone https://github.com/yashitiwary/diet-planner2.git
+git clone https://github.com/SachinItnal/diet-planner.git
 cd diet-planner2
 pip install -r requirements.txt
